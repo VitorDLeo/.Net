@@ -1,0 +1,13 @@
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\netcoreapp3.1\FuncoesMatematicas.exe
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\netcoreapp3.1\FuncoesMatematicas.deps.json
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\netcoreapp3.1\FuncoesMatematicas.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\netcoreapp3.1\FuncoesMatematicas.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\netcoreapp3.1\FuncoesMatematicas.dll
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\bin\Debug\netcoreapp3.1\FuncoesMatematicas.pdb
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\netcoreapp3.1\FuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\netcoreapp3.1\FuncoesMatematicas.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\netcoreapp3.1\FuncoesMatematicas.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\netcoreapp3.1\FuncoesMatematicas.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\netcoreapp3.1\FuncoesMatematicas.dll
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\netcoreapp3.1\FuncoesMatematicas.pdb
+C:\dev\DotNet\logicaProg\cap03\FuncoesMatematicas\FuncoesMatematicas\obj\Debug\netcoreapp3.1\FuncoesMatematicas.genruntimeconfig.cache

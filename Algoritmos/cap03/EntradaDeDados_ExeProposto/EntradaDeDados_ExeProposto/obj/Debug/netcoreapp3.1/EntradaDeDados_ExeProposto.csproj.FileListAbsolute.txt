@@ -1,0 +1,13 @@
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\obj\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\obj\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\obj\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\obj\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\bin\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.exe
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\bin\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.deps.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\bin\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\bin\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\bin\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.dll
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\bin\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.pdb
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\obj\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.dll
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\obj\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.pdb
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_ExeProposto\EntradaDeDados_ExeProposto\obj\Debug\netcoreapp3.1\EntradaDeDados_ExeProposto.genruntimeconfig.cache

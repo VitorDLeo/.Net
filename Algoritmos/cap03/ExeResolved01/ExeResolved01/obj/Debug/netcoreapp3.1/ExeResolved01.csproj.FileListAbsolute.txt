@@ -1,0 +1,14 @@
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\bin\Debug\netcoreapp3.1\ExeResolved01.exe
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\bin\Debug\netcoreapp3.1\ExeResolved01.deps.json
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\bin\Debug\netcoreapp3.1\ExeResolved01.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\bin\Debug\netcoreapp3.1\ExeResolved01.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\bin\Debug\netcoreapp3.1\ExeResolved01.dll
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\bin\Debug\netcoreapp3.1\ExeResolved01.pdb
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.csproj.AssemblyReference.cache
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.dll
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.pdb
+C:\dev\DotNet\logicaProg\cap03\ExeResolved01\ExeResolved01\obj\Debug\netcoreapp3.1\ExeResolved01.genruntimeconfig.cache

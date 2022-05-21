@@ -1,0 +1,14 @@
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\bin\Debug\netcoreapp3.1\Exemplo3_trapezio.exe
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\bin\Debug\netcoreapp3.1\Exemplo3_trapezio.deps.json
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\bin\Debug\netcoreapp3.1\Exemplo3_trapezio.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\bin\Debug\netcoreapp3.1\Exemplo3_trapezio.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\bin\Debug\netcoreapp3.1\Exemplo3_trapezio.dll
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\bin\Debug\netcoreapp3.1\Exemplo3_trapezio.pdb
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.csproj.AssemblyReference.cache
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.dll
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.pdb
+C:\dev\DotNet\logicaProg\cap03\Exemplo3_trapezio\Exemplo3_trapezio\obj\Debug\netcoreapp3.1\Exemplo3_trapezio.genruntimeconfig.cache

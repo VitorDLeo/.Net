@@ -1,0 +1,14 @@
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.exe
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.deps.json
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.dll
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\bin\Debug\netcoreapp3.1\Primeiro_projeto.pdb
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.csproj.AssemblyReference.cache
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.dll
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.pdb
+C:\dev\DotNet\logicaProg\cap03\Primeiro_projeto\Primeiro_projeto\obj\Debug\netcoreapp3.1\Primeiro_projeto.genruntimeconfig.cache

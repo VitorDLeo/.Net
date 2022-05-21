@@ -1,0 +1,13 @@
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\bin\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.exe
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\bin\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.deps.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\bin\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\bin\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\bin\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.dll
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\bin\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.pdb
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\obj\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\obj\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\obj\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\obj\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\obj\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.dll
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\obj\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.pdb
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_part1_frases\EntradaDeDados_part1_frases\obj\Debug\netcoreapp3.1\EntradaDeDados_part1_frases.genruntimeconfig.cache

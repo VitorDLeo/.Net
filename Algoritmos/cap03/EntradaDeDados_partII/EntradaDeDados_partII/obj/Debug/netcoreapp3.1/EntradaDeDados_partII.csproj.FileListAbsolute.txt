@@ -1,0 +1,14 @@
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\bin\Debug\netcoreapp3.1\EntradaDeDados_partII.exe
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\bin\Debug\netcoreapp3.1\EntradaDeDados_partII.deps.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\bin\Debug\netcoreapp3.1\EntradaDeDados_partII.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\bin\Debug\netcoreapp3.1\EntradaDeDados_partII.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\bin\Debug\netcoreapp3.1\EntradaDeDados_partII.dll
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\bin\Debug\netcoreapp3.1\EntradaDeDados_partII.pdb
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.csproj.AssemblyReference.cache
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.dll
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.pdb
+C:\dev\DotNet\logicaProg\cap03\EntradaDeDados_partII\EntradaDeDados_partII\obj\Debug\netcoreapp3.1\EntradaDeDados_partII.genruntimeconfig.cache

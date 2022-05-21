@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncoesMatematicas_EquacoesQuadraticas", "FuncoesMatematicas_EquacoesQuadraticas\FuncoesMatematicas_EquacoesQuadraticas.csproj", "{C7595F7C-15C1-4BA3-B8A6-9221A7EFBC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7595F7C-15C1-4BA3-B8A6-9221A7EFBC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7595F7C-15C1-4BA3-B8A6-9221A7EFBC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7595F7C-15C1-4BA3-B8A6-9221A7EFBC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7595F7C-15C1-4BA3-B8A6-9221A7EFBC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C4EB1C-DC2C-4E41-9471-610E474C9EE4}
+	EndGlobalSection
+EndGlobal

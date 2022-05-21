@@ -1,0 +1,13 @@
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\obj\Debug\netcoreapp3.1\exemplo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\obj\Debug\netcoreapp3.1\exemplo5.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\obj\Debug\netcoreapp3.1\exemplo5.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\obj\Debug\netcoreapp3.1\exemplo5.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\bin\Debug\netcoreapp3.1\exemplo5.exe
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\bin\Debug\netcoreapp3.1\exemplo5.deps.json
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\bin\Debug\netcoreapp3.1\exemplo5.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\bin\Debug\netcoreapp3.1\exemplo5.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\bin\Debug\netcoreapp3.1\exemplo5.dll
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\bin\Debug\netcoreapp3.1\exemplo5.pdb
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\obj\Debug\netcoreapp3.1\exemplo5.dll
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\obj\Debug\netcoreapp3.1\exemplo5.pdb
+C:\dev\DotNet\logicaProg\cap03\exemplo5\exemplo5\obj\Debug\netcoreapp3.1\exemplo5.genruntimeconfig.cache

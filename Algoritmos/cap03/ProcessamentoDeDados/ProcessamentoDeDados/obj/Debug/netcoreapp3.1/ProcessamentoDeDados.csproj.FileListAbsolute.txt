@@ -1,0 +1,13 @@
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\netcoreapp3.1\ProcessamentoDeDados.exe
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\netcoreapp3.1\ProcessamentoDeDados.deps.json
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\netcoreapp3.1\ProcessamentoDeDados.runtimeconfig.json
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\netcoreapp3.1\ProcessamentoDeDados.runtimeconfig.dev.json
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\netcoreapp3.1\ProcessamentoDeDados.dll
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\netcoreapp3.1\ProcessamentoDeDados.pdb
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\netcoreapp3.1\ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\netcoreapp3.1\ProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\netcoreapp3.1\ProcessamentoDeDados.AssemblyInfo.cs
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\netcoreapp3.1\ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\netcoreapp3.1\ProcessamentoDeDados.dll
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\netcoreapp3.1\ProcessamentoDeDados.pdb
+C:\dev\DotNet\logicaProg\cap03\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\netcoreapp3.1\ProcessamentoDeDados.genruntimeconfig.cache
