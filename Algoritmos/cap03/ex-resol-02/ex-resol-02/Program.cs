@@ -9,10 +9,10 @@ namespace ex_resol_02
         {
             double h, b, AREA, PERIMETRO, DIAGONAL;
 
-            Console.Write("Digite o valor da base(b): ");
+            Console.Write("base(b): ");
             b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.Write("Digite o valor da Altura(h): ");
+            Console.Write("Altura(h): ");
             h = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             AREA = h * b;
