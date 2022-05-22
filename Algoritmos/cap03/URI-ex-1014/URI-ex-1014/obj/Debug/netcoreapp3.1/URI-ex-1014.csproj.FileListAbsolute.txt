@@ -1,0 +1,14 @@
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\bin\Debug\netcoreapp3.1\URI-ex-1014.exe
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\bin\Debug\netcoreapp3.1\URI-ex-1014.deps.json
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\bin\Debug\netcoreapp3.1\URI-ex-1014.runtimeconfig.json
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\bin\Debug\netcoreapp3.1\URI-ex-1014.runtimeconfig.dev.json
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\bin\Debug\netcoreapp3.1\URI-ex-1014.dll
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\bin\Debug\netcoreapp3.1\URI-ex-1014.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.csproj.AssemblyReference.cache
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.AssemblyInfoInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.AssemblyInfo.cs
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.dll
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap03\URI-ex-1014\URI-ex-1014\obj\Debug\netcoreapp3.1\URI-ex-1014.genruntimeconfig.cache
