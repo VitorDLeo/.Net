@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\bin\Debug\netcoreapp3.1\URI-ex-1001.exe
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\bin\Debug\netcoreapp3.1\URI-ex-1001.deps.json
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\bin\Debug\netcoreapp3.1\URI-ex-1001.runtimeconfig.json
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\bin\Debug\netcoreapp3.1\URI-ex-1001.runtimeconfig.dev.json
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\bin\Debug\netcoreapp3.1\URI-ex-1001.dll
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\bin\Debug\netcoreapp3.1\URI-ex-1001.pdb
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.AssemblyInfo.cs
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.dll
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.pdb
+C:\Users\vitor\source\repos\URI-ex-1001\URI-ex-1001\obj\Debug\netcoreapp3.1\URI-ex-1001.genruntimeconfig.cache
