@@ -1,0 +1,14 @@
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.csproj.AssemblyReference.cache
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.AssemblyInfoInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.AssemblyInfo.cs
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\bin\Debug\netcoreapp3.1\ex-res-02.exe
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\bin\Debug\netcoreapp3.1\ex-res-02.deps.json
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\bin\Debug\netcoreapp3.1\ex-res-02.runtimeconfig.json
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\bin\Debug\netcoreapp3.1\ex-res-02.runtimeconfig.dev.json
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\bin\Debug\netcoreapp3.1\ex-res-02.dll
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\bin\Debug\netcoreapp3.1\ex-res-02.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.dll
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap04\ex-res-02\ex-res-02\obj\Debug\netcoreapp3.1\ex-res-02.genruntimeconfig.cache

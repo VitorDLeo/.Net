@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap03\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas.csproj": {}
+    "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap04\\ex-res-02\\ex-res-02\\ex-res-02.csproj": {}
   },
   "projects": {
-    "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap03\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas.csproj": {
+    "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap04\\ex-res-02\\ex-res-02\\ex-res-02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap03\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas.csproj",
-        "projectName": "FuncoesMatematicas_EquacoesQuadraticas",
-        "projectPath": "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap03\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas.csproj",
+        "projectUniqueName": "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap04\\ex-res-02\\ex-res-02\\ex-res-02.csproj",
+        "projectName": "ex-res-02",
+        "projectPath": "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap04\\ex-res-02\\ex-res-02\\ex-res-02.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap03\\FuncoesMatematicas_EquacoesQuadraticas\\FuncoesMatematicas_EquacoesQuadraticas\\obj\\",
+        "outputPath": "C:\\dev\\DotNet\\.Net\\Algoritmos\\cap04\\ex-res-02\\ex-res-02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
