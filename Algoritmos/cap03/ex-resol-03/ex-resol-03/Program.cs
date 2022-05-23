@@ -9,9 +9,10 @@ namespace ex_resol_03
         {
             double idadeA, idadeB, media;
             string nomeA, nomeB;
+            string[] valores;
 
             Console.Write("Nome e idade A: ");
-            string[] valores = Console.ReadLine().Split(' ');
+            valores = Console.ReadLine().Split(' ');
             nomeA = valores[0];
             idadeA = double.Parse(valores[1]);
 
@@ -20,7 +21,7 @@ namespace ex_resol_03
             nomeB = valores[0];
             idadeB = double.Parse(valores[1]);
 
-            media = (idadeA + idadeB) / 2.00;
+            media = (double) (idadeA + idadeB) / 2.00;
 
             Console.WriteLine("A idade media de " + nomeA + " e " + nomeB + " e de " + media.ToString("F1", CultureInfo.InvariantCulture) + " anos!");
         }
