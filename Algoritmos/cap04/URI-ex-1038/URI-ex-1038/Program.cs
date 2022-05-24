@@ -7,14 +7,15 @@ namespace URI_ex_1038
     {
         static void Main(string[] args)
         {
-            int cod;
-            double qtd, total;
+            int cod, qtd;
+            double total;
             string[] vet;
 
             vet = Console.ReadLine().Split(' ');
-            cod = int.Parse(vet)
+            cod = int.Parse(vet[0]);
+            qtd = int.Parse(vet[1]);
 
-            switch()
+            switch();
             
         }
     }
