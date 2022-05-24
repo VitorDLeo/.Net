@@ -7,9 +7,9 @@ namespace URI_ex_1037
     {
         static void Main(string[] args)
         {
-            double valor;
+            float valor;
 
-            valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            valor = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 
             if (valor < 0.00 || valor > 100.00)
