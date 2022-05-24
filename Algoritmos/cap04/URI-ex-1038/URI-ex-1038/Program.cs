@@ -15,7 +15,10 @@ namespace URI_ex_1038
             cod = int.Parse(vet[0]);
             qtd = int.Parse(vet[1]);
 
-            switch();
+            switch (cod)
+            {
+
+            }
             
         }
     }
