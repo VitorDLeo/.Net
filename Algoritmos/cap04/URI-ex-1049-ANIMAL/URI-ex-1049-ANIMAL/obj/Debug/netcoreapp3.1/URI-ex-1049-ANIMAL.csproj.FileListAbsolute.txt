@@ -1,0 +1,13 @@
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\bin\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.exe
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\bin\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.deps.json
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\bin\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.runtimeconfig.json
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\bin\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.runtimeconfig.dev.json
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\bin\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.dll
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\bin\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\obj\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\obj\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.AssemblyInfoInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\obj\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.AssemblyInfo.cs
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\obj\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\obj\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.dll
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\obj\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1049-ANIMAL\URI-ex-1049-ANIMAL\obj\Debug\netcoreapp3.1\URI-ex-1049-ANIMAL.genruntimeconfig.cache
