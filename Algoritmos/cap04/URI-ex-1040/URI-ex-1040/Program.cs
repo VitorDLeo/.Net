@@ -8,9 +8,8 @@ namespace URI_ex_1040
         static void Main(string[] args)
         {
             float n1, n2, n3, n4, notaExame, mediaFinal;
-            string[] vet;
 
-            vet = Console.ReadLine().Split(' ');
+            string[] vet = Console.ReadLine().Split(' ');
             n1 = float.Parse(vet[0], CultureInfo.InvariantCulture);
             n2 = float.Parse(vet[1], CultureInfo.InvariantCulture);
             n3 = float.Parse(vet[2], CultureInfo.InvariantCulture);
@@ -27,7 +26,7 @@ namespace URI_ex_1040
             if (Media >= 7.0)
             {
                 Console.WriteLine("Media: " + Media.ToString("F1", CultureInfo.InvariantCulture));
-                Console.WriteLine("Aluno Aprovado.");
+                Console.WriteLine("Aluno aprovado.");
             } else if (Media >= 5.0 && Media <= 6.9)
             {
                 notaExame = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
