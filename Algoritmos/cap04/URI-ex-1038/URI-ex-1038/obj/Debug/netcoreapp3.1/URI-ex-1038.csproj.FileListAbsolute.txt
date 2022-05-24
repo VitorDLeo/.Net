@@ -1,0 +1,4 @@
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1038\URI-ex-1038\obj\Debug\netcoreapp3.1\URI-ex-1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1038\URI-ex-1038\obj\Debug\netcoreapp3.1\URI-ex-1038.AssemblyInfoInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1038\URI-ex-1038\obj\Debug\netcoreapp3.1\URI-ex-1038.AssemblyInfo.cs
+C:\dev\DotNet\.Net\Algoritmos\cap04\URI-ex-1038\URI-ex-1038\obj\Debug\netcoreapp3.1\URI-ex-1038.csproj.CoreCompileInputs.cache
