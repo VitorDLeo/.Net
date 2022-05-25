@@ -1,0 +1,13 @@
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\bin\Debug\netcoreapp3.1\URI-ex-1117.exe
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\bin\Debug\netcoreapp3.1\URI-ex-1117.deps.json
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\bin\Debug\netcoreapp3.1\URI-ex-1117.runtimeconfig.json
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\bin\Debug\netcoreapp3.1\URI-ex-1117.runtimeconfig.dev.json
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\bin\Debug\netcoreapp3.1\URI-ex-1117.dll
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\bin\Debug\netcoreapp3.1\URI-ex-1117.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\obj\Debug\netcoreapp3.1\URI-ex-1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\obj\Debug\netcoreapp3.1\URI-ex-1117.AssemblyInfoInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\obj\Debug\netcoreapp3.1\URI-ex-1117.AssemblyInfo.cs
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\obj\Debug\netcoreapp3.1\URI-ex-1117.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\obj\Debug\netcoreapp3.1\URI-ex-1117.dll
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\obj\Debug\netcoreapp3.1\URI-ex-1117.pdb
+C:\dev\DotNet\.Net\Algoritmos\cap05\URI-ex-1117\URI-ex-1117\obj\Debug\netcoreapp3.1\URI-ex-1117.genruntimeconfig.cache
